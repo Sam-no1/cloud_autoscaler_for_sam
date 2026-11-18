@@ -1,0 +1,278 @@
+[
+  {
+    "timesteps": 10000,
+    "daily": {
+      "server_minutes": 484.0,
+      "server_minutes_std": 39.227541345335425,
+      "violation_rate": 0.7075,
+      "violation_rate_std": 0.0350990661477545,
+      "mean_response_time": 281.8698975247953,
+      "mean_response_time_std": 24.700674116883604,
+      "scale_actions": 3.8,
+      "scale_actions_std": 0.9797958971132712
+    },
+    "spiky": {
+      "server_minutes": 396.0,
+      "server_minutes_std": 9.23038460737146,
+      "violation_rate": 0.8133333333333332,
+      "violation_rate_std": 0.01996524758451824,
+      "mean_response_time": 394.63006839859025,
+      "mean_response_time_std": 8.54920221716425,
+      "scale_actions": 6.2,
+      "scale_actions_std": 0.9797958971132712
+    }
+  },
+  {
+    "timesteps": 20000,
+    "daily": {
+      "server_minutes": 1601.2,
+      "server_minutes_std": 4.955804677345547,
+      "violation_rate": 0.0,
+      "violation_rate_std": 0.0,
+      "mean_response_time": 0.0021729516832398868,
+      "mean_response_time_std": 0.0012833619456358095,
+      "scale_actions": 57.6,
+      "scale_actions_std": 2.65329983228432
+    },
+    "spiky": {
+      "server_minutes": 965.6,
+      "server_minutes_std": 20.14547095503106,
+      "violation_rate": 0.5208333333333334,
+      "violation_rate_std": 0.022515426810177146,
+      "mean_response_time": 151.97882502231124,
+      "mean_response_time_std": 14.832651511722993,
+      "scale_actions": 38.2,
+      "scale_actions_std": 2.7129319932501073
+    }
+  },
+  {
+    "timesteps": 30000,
+    "daily": {
+      "server_minutes": 2121.8,
+      "server_minutes_std": 13.99142594591416,
+      "violation_rate": 0.0,
+      "violation_rate_std": 0.0,
+      "mean_response_time": 8.309393556303905e-05,
+      "mean_response_time_std": 0.00016618787112607808,
+      "scale_actions": 124.0,
+      "scale_actions_std": 4.33589667773576
+    },
+    "spiky": {
+      "server_minutes": 1798.2,
+      "server_minutes_std": 675.155211784668,
+      "violation_rate": 0.16916666666666666,
+      "violation_rate_std": 0.3321186200407586,
+      "mean_response_time": 77.24390987817763,
+      "mean_response_time_std": 154.45339214789044,
+      "scale_actions": 110.6,
+      "scale_actions_std": 40.02299339129945
+    }
+  },
+  {
+    "timesteps": 40000,
+    "daily": {
+      "server_minutes": 1453.6,
+      "server_minutes_std": 15.982490419205638,
+      "violation_rate": 0.0,
+      "violation_rate_std": 0.0,
+      "mean_response_time": 0.0011801355945193956,
+      "mean_response_time_std": 0.0009813072919662414,
+      "scale_actions": 28.6,
+      "scale_actions_std": 3.3823069050575527
+    },
+    "spiky": {
+      "server_minutes": 1017.0,
+      "server_minutes_std": 519.9623063261413,
+      "violation_rate": 0.4725,
+      "violation_rate_std": 0.31492503517151155,
+      "mean_response_time": 176.73955014554937,
+      "mean_response_time_std": 163.93484617638345,
+      "scale_actions": 44.0,
+      "scale_actions_std": 11.20714058089752
+    }
+  },
+  {
+    "timesteps": 50000,
+    "daily": {
+      "server_minutes": 1398.8,
+      "server_minutes_std": 25.047155527125227,
+      "violation_rate": 0.0,
+      "violation_rate_std": 0.0,
+      "mean_response_time": 0.0035240582091580494,
+      "mean_response_time_std": 0.0013656858756385946,
+      "scale_actions": 28.8,
+      "scale_actions_std": 4.874423042781577
+    },
+    "spiky": {
+      "server_minutes": 1801.6,
+      "server_minutes_std": 91.55894276366455,
+      "violation_rate": 0.0725,
+      "violation_rate_std": 0.006770032003863299,
+      "mean_response_time": 0.16493301891582468,
+      "mean_response_time_std": 0.017425601408917038,
+      "scale_actions": 66.4,
+      "scale_actions_std": 6.651315659326356
+    }
+  },
+  {
+    "timesteps": 60000,
+    "daily": {
+      "server_minutes": 319.8,
+      "server_minutes_std": 29.532355138051557,
+      "violation_rate": 0.8525,
+      "violation_rate_std": 0.05073077085074806,
+      "mean_response_time": 361.91919702799896,
+      "mean_response_time_std": 21.610109747794294,
+      "scale_actions": 5.8,
+      "scale_actions_std": 0.9797958971132712
+    },
+    "spiky": {
+      "server_minutes": 323.2,
+      "server_minutes_std": 21.710826792179056,
+      "violation_rate": 0.8633333333333335,
+      "violation_rate_std": 0.04293082290797084,
+      "mean_response_time": 412.79875002929975,
+      "mean_response_time_std": 15.095332935454245,
+      "scale_actions": 11.4,
+      "scale_actions_std": 1.4966629547095764
+    }
+  },
+  {
+    "timesteps": 70000,
+    "daily": {
+      "server_minutes": 1384.0,
+      "server_minutes_std": 21.03330692021585,
+      "violation_rate": 0.0,
+      "violation_rate_std": 0.0,
+      "mean_response_time": 0.018779176648614282,
+      "mean_response_time_std": 0.002174186355998809,
+      "scale_actions": 46.6,
+      "scale_actions_std": 3.878143885933063
+    },
+    "spiky": {
+      "server_minutes": 1572.0,
+      "server_minutes_std": 16.97056274847714,
+      "violation_rate": 0.0925,
+      "violation_rate_std": 0.0066666666666666706,
+      "mean_response_time": 0.24714271627944032,
+      "mean_response_time_std": 0.017592013982384185,
+      "scale_actions": 73.0,
+      "scale_actions_std": 8.099382692526634
+    }
+  },
+  {
+    "timesteps": 80000,
+    "daily": {
+      "server_minutes": 1441.6,
+      "server_minutes_std": 62.774517122794336,
+      "violation_rate": 0.0,
+      "violation_rate_std": 0.0,
+      "mean_response_time": 0.011703139316116606,
+      "mean_response_time_std": 0.00455153708992586,
+      "scale_actions": 12.6,
+      "scale_actions_std": 4.6303347611160905
+    },
+    "spiky": {
+      "server_minutes": 1634.0,
+      "server_minutes_std": 22.47665455533808,
+      "violation_rate": 0.0725,
+      "violation_rate_std": 0.01615893285805443,
+      "mean_response_time": 0.19668076788548278,
+      "mean_response_time_std": 0.04326044738195369,
+      "scale_actions": 40.6,
+      "scale_actions_std": 1.4966629547095767
+    }
+  },
+  {
+    "timesteps": 90000,
+    "daily": {
+      "server_minutes": 1571.4,
+      "server_minutes_std": 82.68639549526874,
+      "violation_rate": 0.0,
+      "violation_rate_std": 0.0,
+      "mean_response_time": 0.03194146652484557,
+      "mean_response_time_std": 0.00410255233987935,
+      "scale_actions": 15.8,
+      "scale_actions_std": 3.249615361854384
+    },
+    "spiky": {
+      "server_minutes": 1784.6,
+      "server_minutes_std": 28.541899025818168,
+      "violation_rate": 0.06666666666666665,
+      "violation_rate_std": 0.012360330811826102,
+      "mean_response_time": 0.2004112590357204,
+      "mean_response_time_std": 0.03929648614321216,
+      "scale_actions": 36.6,
+      "scale_actions_std": 1.4966629547095767
+    }
+  },
+  {
+    "timesteps": 100000,
+    "daily": {
+      "server_minutes": 1262.4,
+      "server_minutes_std": 20.78076033257686,
+      "violation_rate": 0.0016666666666666666,
+      "violation_rate_std": 0.003333333333333333,
+      "mean_response_time": 0.0562027784497056,
+      "mean_response_time_std": 0.01352957610726646,
+      "scale_actions": 45.4,
+      "scale_actions_std": 9.350935782048767
+    },
+    "spiky": {
+      "server_minutes": 1477.6,
+      "server_minutes_std": 15.370100845472681,
+      "violation_rate": 0.0975,
+      "violation_rate_std": 0.005651941652604391,
+      "mean_response_time": 0.27814347408515283,
+      "mean_response_time_std": 0.03959506874293493,
+      "scale_actions": 67.4,
+      "scale_actions_std": 10.365326815879952
+    }
+  },
+  {
+    "timesteps": 110000,
+    "daily": {
+      "server_minutes": 1267.4,
+      "server_minutes_std": 36.09764535257113,
+      "violation_rate": 0.0,
+      "violation_rate_std": 0.0,
+      "mean_response_time": 0.03426980979659699,
+      "mean_response_time_std": 0.0060701095588918405,
+      "scale_actions": 10.2,
+      "scale_actions_std": 1.5999999999999999
+    },
+    "spiky": {
+      "server_minutes": 1571.2,
+      "server_minutes_std": 12.796874618437112,
+      "violation_rate": 0.10166666666666668,
+      "violation_rate_std": 0.007264831572567791,
+      "mean_response_time": 0.30809526639290274,
+      "mean_response_time_std": 0.04195073517916661,
+      "scale_actions": 45.4,
+      "scale_actions_std": 2.3323807579381204
+    }
+  },
+  {
+    "timesteps": 120000,
+    "daily": {
+      "server_minutes": 1182.0,
+      "server_minutes_std": 6.511528238439882,
+      "violation_rate": 0.0016666666666666666,
+      "violation_rate_std": 0.003333333333333333,
+      "mean_response_time": 0.10525831077476397,
+      "mean_response_time_std": 0.015217586410448881,
+      "scale_actions": 16.2,
+      "scale_actions_std": 2.481934729198171
+    },
+    "spiky": {
+      "server_minutes": 1452.2,
+      "server_minutes_std": 9.6,
+      "violation_rate": 0.10916666666666668,
+      "violation_rate_std": 0.006123724356957943,
+      "mean_response_time": 0.383063904339934,
+      "mean_response_time_std": 0.018257635773829172,
+      "scale_actions": 53.4,
+      "scale_actions_std": 2.0591260281974
+    }
+  }
+]
